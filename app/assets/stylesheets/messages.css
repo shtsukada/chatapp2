@@ -39,6 +39,7 @@
   height: calc(100% - 100px);
   padding:  0 20px;
   overflow: scroll;
+  /* position: sticky; */
 }
 
 .room {
@@ -55,6 +56,7 @@
 .chat {
   background-color: #fff;
   width: calc(100% - 200px);
+  height: 100vh;
 }
 
 .chat-header {
